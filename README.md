@@ -1,6 +1,11 @@
-# velocityx_practice
+# VelocityX Practice Repo
 
-Acknowledgement: https://www.youtube.com/watch?v=OXIsrtDAA2k&feature=youtu.be
+## Acknowledgement:
+<ul>
+<li>https://www.youtube.com/channel/UCFTM1FGjZSkoSPDZgtbp7hA</li>
+<li>https://www.youtube.com/watch?v=OXIsrtDAA2k</li>
+<li>https://www.youtube.com/watch?v=78DRGfd3neA</li>
+</ul>
 
 ## Getting Started
 
